@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TestWorld
+comment0.text=\r\n\ Test\ World\ to\ showcase\ and\ test\ the\ methods\ of\ TextBox\r\n\ <p>\r\n\ World\ displays\ a\ text\ box\ and\ allows\ text\ to\ be\ \r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=TestWorld()
+comment1.text=\r\n\ Constructor\ to\ initialize\ a\ Text\ Box\ and\ other\ variables\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ When\ program\ starts,\ start\ updating\ and\ displaying\ the\ output\ text\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ In\ the\ act\ method,\ run\ through\ each\ command\ that\ will\ update\ the\ text\ box\ accordingly\r\n
+comment4.params=times
+comment4.target=void\ animateText(int)
+comment4.text=\r\n\ Perform\ the\ typing\ animation\ by\ typing\ the\ text\ every\ few\ iterations\r\n\ @param\ times\ \ \ number\ of\ characters\ typed\ or\ shown\ at\ a\ time\r\n
+comment5.params=
+comment5.target=void\ animateText()
+comment5.text=\r\n\ Overloated\ animate\ function,\ to\ animate\ the\ text\ only\ one\ character\ at\ a\ time\r\n
+numComments=6
